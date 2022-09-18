@@ -1,2 +1,2 @@
 # DIO-Projetos
-Projetos feito nos Bootcamp e cursos da DIO
+* Repositório com os projetos feito nos bootcamps da DIO 
